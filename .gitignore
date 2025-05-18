@@ -1,0 +1,9 @@
+*.E01
+*.vmdk
+*.img
+*.aut
+*.db
+*.log
+*.tmp
+__pycache__/
+*.pyc
